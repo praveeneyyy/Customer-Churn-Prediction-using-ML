@@ -125,7 +125,7 @@ Customer_Churn_Prediction_using_ML/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer_Churn_Prediction_using_ML.git
+git clone https://https://github.com/praveeneyyy/Customer-Churn-Prediction-using-ML
 cd Customer_Churn_Prediction_using_ML
 ```
 
